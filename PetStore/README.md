@@ -1,7 +1,4 @@
- 
-<h1 align="center">
-  <img height="40" weight="40" src="https://user-images.githubusercontent.com/102550569/185742903-c9538e8e-58e2-48b6-9d82-19f9c7388516.png"> Postman 
-</h1>
+
 
 ## 📑 Senaryo 1:
 
