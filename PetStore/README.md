@@ -206,18 +206,4 @@
 </details>
 
 <br>
-
-
-<br>
-
-## 📑 Senaryo 3:
-
-#### 👨🏻‍💻 /v2/pet/PetId
-***  
-
-<details>
-  <summary>(<i>Testi görüntülemek için tıklayın</i>)</summary>
-
-```java 
-``` 
-</details>
+ 
